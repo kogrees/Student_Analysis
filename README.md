@@ -1,29 +1,6 @@
 # Student_Analysis
 
-General Insight :-
-
-Access to resources: Students with fewer resources attend school more regularly and score less on exams, possibly due to increased reliance on school for learning.
-
-Distance from home: Closer proximity to school leads to better attendance and higher exam scores, reducing barriers to academic success.
-
-Internet access: Students with internet access perform significantly better, with more students scoring above 80%, highlighting the importance of online resources.
-
-Learning disabilities: While learning disabilities slightly reduce exam scores, they have a much larger impact on attendance, indicating barriers to consistent school engagement.
-
-Parental education: Higher parental education correlates with better scores, but most high-performing students have Less Parental education.
-
-Exam scores (previous vs. final): Final exam average scores are lower but more balanced, with fewer students scoring extremely high or low compared to previous exams.
-
-Motivation: Students with medium motivation study the most, suggesting a balanced approach to effort and time investment yields the best outcomes.
-
-Teacher quality: Better teacher quality leads to higher exam scores and reduced study time, indicating that effective teaching enhances learning efficiency.
-
-School type (public vs. private): Public school students tend to score higher, though the difference in success rates between public and private schools is small.
-
-Parental involvement: Greater parental involvement results in higher exam scores and less study time, showing the importance of family support in academic achievement.
-
 Insights on students with 95+ score and < 60:-
-
 
 |------------------------------------|---------------------------------------------|--------------------------------------------------|
 | Attribute                          | 95+ Score Students (Toppers)                | ≤ 60 Score Students                              |
@@ -53,7 +30,24 @@ Insights on students with 95+ score and < 60:-
 
 
 
+General Insight:-
 
+Access to resources: Students with fewer resources attend school more often but score lower on exams, likely relying more on school for learning.
 
+Distance from home: Students closer to school have better attendance and higher scores, indicating fewer barriers to academic success.
 
-  
+Internet access: Internet access significantly boosts performance, with more students scoring above 80%, emphasizing its role in academic achievement.
+
+Learning disabilities: These slightly lower exam scores but greatly impact attendance, highlighting challenges in consistent school engagement.
+
+Parental education: Higher education levels correlate with better scores, but many top-performing students have less-educated parents.
+
+Exam scores: Final exams show lower average scores but are more balanced, with fewer extreme highs or lows compared to previous exams.
+
+Motivation: Students with medium motivation study the most, showing a balanced approach to effort leads to better outcomes.
+
+Teacher quality: Higher teacher quality improves scores and reduces study time, showing the efficiency of better teaching.
+
+School type: Public school students score slightly higher, though the difference in success rates with private schools is minimal.
+
+Parental involvement: More involved parents contribute to higher scores and reduced study time, underlining the value of family support.
