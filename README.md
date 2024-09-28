@@ -1,7 +1,9 @@
 # Student_Analysis
 
 General Insight :-
+
 Access to resources: Students with fewer resources attend school more regularly and score higher on exams, possibly due to increased reliance on school for learning.
+
 Distance from home: Closer proximity to school leads to better attendance and higher exam scores, reducing barriers to academic success.
 Internet access: Students with internet access perform significantly better, with more students scoring above 80%, highlighting the importance of online resources.
 Learning disabilities: While learning disabilities slightly reduce exam scores, they have a much larger impact on attendance, indicating barriers to consistent school engagement.
